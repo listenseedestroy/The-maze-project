@@ -30,4 +30,4 @@ $ gcc -Wall -Werror -Wextra -pedantic ./src/*.c -lm -o maze `sdl2-config --cflag
 
 ## Author 
 
-- **Hamza Semlali** <[Zubby](https://github.com/listenseedestroy)>
+- **Hamza Semlali** < (https://github.com/listenseedestroy)>
